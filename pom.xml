@@ -25,7 +25,7 @@
         <java.version>11</java.version>
         <druid.version>1.2.11</druid.version>
         <lombok.version>1.18.24</lombok.version>
-        <fastjson.version>1.2.75</fastjson.version>
+        <fastjson.version>1.2.83_noneautotype</fastjson.version>
         <guava.version>19.0</guava.version>
         <springdoc.openapi.ui.version>1.6.8</springdoc.openapi.ui.version>
         <mysql.connector.java.version>8.0.29</mysql.connector.java.version>
