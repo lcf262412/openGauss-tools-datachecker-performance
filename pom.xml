@@ -29,7 +29,7 @@
         <guava.version>19.0</guava.version>
         <springdoc.openapi.ui.version>1.6.8</springdoc.openapi.ui.version>
         <mysql.connector.java.version>8.0.29</mysql.connector.java.version>
-        <zero.allocation.hashing.version>0.15</zero.allocation.hashing.version>
+        <zero.allocation.hashing.version>0.16</zero.allocation.hashing.version>
         <io.confluent.version>7.0.1</io.confluent.version>
         <opengauss.jdbc.version>3.0.0</opengauss.jdbc.version>
         <snakeyaml.version>1.33</snakeyaml.version>
