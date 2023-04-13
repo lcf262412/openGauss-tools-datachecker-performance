@@ -27,7 +27,7 @@
         <lombok.version>1.18.24</lombok.version>
         <fastjson.version>1.2.75</fastjson.version>
         <guava.version>19.0</guava.version>
-        <springdoc.openapi.ui.version>1.6.8</springdoc.openapi.ui.version>
+        <springdoc.openapi.ui.version>1.6.14</springdoc.openapi.ui.version>
         <mysql.connector.java.version>8.0.29</mysql.connector.java.version>
         <zero.allocation.hashing.version>0.15</zero.allocation.hashing.version>
         <io.confluent.version>7.0.1</io.confluent.version>
