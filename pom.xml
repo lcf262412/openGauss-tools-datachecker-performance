@@ -24,7 +24,7 @@
         <spring.cloud.version>2021.0.0</spring.cloud.version>
         <java.version>11</java.version>
         <druid.version>1.2.11</druid.version>
-        <lombok.version>1.18.24</lombok.version>
+        <lombok.version>1.18.26</lombok.version>
         <fastjson.version>1.2.75</fastjson.version>
         <guava.version>19.0</guava.version>
         <springdoc.openapi.ui.version>1.6.8</springdoc.openapi.ui.version>
