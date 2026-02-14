@@ -31,7 +31,7 @@
         <mysql.connector.java.version>8.0.29</mysql.connector.java.version>
         <zero.allocation.hashing.version>0.15</zero.allocation.hashing.version>
         <io.confluent.version>7.0.1</io.confluent.version>
-        <opengauss.jdbc.version>3.0.0</opengauss.jdbc.version>
+        <opengauss.jdbc.version>3.1.1-og</opengauss.jdbc.version>
         <snakeyaml.version>1.33</snakeyaml.version>
         <powermock.version>2.0.0</powermock.version>
     </properties>
